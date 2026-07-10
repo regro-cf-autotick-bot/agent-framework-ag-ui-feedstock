@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.0.0rc3"
+  version: "1.0.0rc8"
   python_min: "3.10"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/a/agent-framework-ag-ui/agent_framework_ag_ui-${{ version }}.tar.gz
-  sha256: 847f1153be3a5911211ab1eac7255a4fa29299e068f266f45861d0df8e8494ea
+  sha256: e678c77719dc0227de0debea45cdf1ff41953a661d08e0815735aef39e637167
 
 build:
   noarch: python
